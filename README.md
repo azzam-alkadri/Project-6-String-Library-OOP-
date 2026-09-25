@@ -92,7 +92,7 @@ This project demonstrates several core programming concepts:
 # 📂 Project Structure
 
 ```
-Project-8-String-Library-OOP
+Project-6-String-Library-OOP
 │
 ├── clsString.h
 │   String utility class containing all string operations
